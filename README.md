@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a software engineering student at ALX Africa. As a student I am keen on building a strong foundation in computer programming. This will help me thrive on dissecting complex problems and crafting software applications through code.
+I am a software engineering student, as a student I am keen on building a strong foundation in computer programming. This will help me thrive on dissecting complex problems and crafting software applications through code.
 
 * 🌍  I'm based in Nairobi , Kenya
 * ✉️  You can contact me at [stephenouma452@gmail.com](mailto:stephenouma452@gmail.com)
