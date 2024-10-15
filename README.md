@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello World, I'm Ouma!
+# Hello, I'm Ouma!
 
 </div>
 
@@ -22,7 +22,21 @@ Feel free to connect with me via the following platforms:
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
 ## 🏆 My GitHub Stats:
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kshyun28&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyun28&layout=compact&theme=dark" />
-</p>
+
+<div align="center" style="border: 2px solid #FF69B4; padding: 10px; border-radius: 10px;">
+
+<a href="https://github.com/Iamouma">
+  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Iamouma&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Iamouma">
+  <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamouma&layout=compact&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" />
+</a>
+
+<a href="https://github.com/Iamouma">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Iamouma&theme=radical&background=0D1117&currStreakLabel=FF69B4&fire=FF69B4&ring=FF69B4" />
+</a>
+
+</div>
+
+
