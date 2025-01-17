@@ -14,7 +14,6 @@ Here are some of the tools and technologies I work with:
 
 ![Tech Stack](https://skillicons.dev/icons?i=python,java,js,ts,html,css,nodejs,react,next,mongo,mysql,django,flask,aws,gcp,solidity)
 
-
 ## 📫 How to Reach Me:
 
 Feel free to connect with me on LinkedIn or send me an email for inquiries, collaborations, or just to say hello!
