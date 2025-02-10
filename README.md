@@ -12,7 +12,7 @@ In addition to software development, I have experience in collaborative team env
 ## 💻 My Tech Stack:
 Here are some of the tools and technologies I work with:
 
-![Tech Stack](https://skillicons.dev/icons?i=python,java,js,ts,html,css,nodejs,react,next,mongo,mysql,django,flask,aws,gcp,solidity)
+![Tech Stack](https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,react,next,mongo,mysql,django)
 
 ## 📫 How to Reach Me:
 
